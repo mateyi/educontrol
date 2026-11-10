@@ -26,3 +26,4 @@ describe('Frontend Component Tests', () => {
     expect(container.textContent).toContain('+5.2%');
   });
 });
+

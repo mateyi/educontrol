@@ -103,3 +103,4 @@ export async function assignTeacherToSubject(req: AuthenticatedRequest, res: Res
 
   res.status(201).json({ message: 'Profesor asignado con éxito', assignment });
 }
+

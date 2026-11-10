@@ -184,3 +184,4 @@ export async function deleteTeacher(req: AuthenticatedRequest, res: Response): P
 
   res.json({ message: 'Profesor desactivado correctamente' });
 }
+

@@ -46,3 +46,4 @@
 **Criterios de Aceptación:**
 - Valida solapamiento de minutos entre la hora de inicio y fin.
 - Emite un mensaje descriptivo indicando qué materia, aula o docente está en conflicto.
+

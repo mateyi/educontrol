@@ -22,3 +22,4 @@ router.post(
 router.get('/stats', authorize('ADMINISTRADOR', 'DIRECTIVO', 'PRECEPTOR'), getAttendanceStats);
 
 export default router;
+

@@ -153,3 +153,4 @@ export async function getClassrooms(req: AuthenticatedRequest, res: Response): P
   });
   res.json({ data: classrooms });
 }
+

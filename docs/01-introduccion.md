@@ -17,3 +17,4 @@ El sistema digitaliza, centraliza y optimiza todos los flujos operativos, acadé
 - **Backend:** Node.js, Express, TypeScript, REST API, JSON Web Tokens (JWT), Bcrypt, Zod.
 - **Base de Datos & ORM:** PostgreSQL / SQLite, Prisma ORM.
 - **Testing:** Vitest, Supertest, Playwright.
+

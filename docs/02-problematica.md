@@ -9,3 +9,4 @@ En las escuelas secundarias y técnicas de Argentina, la administración pedagó
 5. **Inseguridad y vulnerabilidad de datos:** Ausencia de auditoría sobre quién modifica una calificación, registra una tardanza o da de baja un legajo.
 
 EduControl resuelve integralmente estas deficiencias mediante una arquitectura en la nube con acceso seguro por roles y sincronización en tiempo real.
+

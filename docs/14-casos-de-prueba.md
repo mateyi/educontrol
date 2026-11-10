@@ -12,3 +12,4 @@
 | **CP-08** | Horarios | Choque de aula física | Misma aula ocupada en mismo día y hora | HTTP 409 Conflicto con detalle del aula | **PASS** |
 | **CP-09** | Tareas | Alumno realiza entrega digital | Content o enlace | Estado pasa a `ENTREGADO` | **PASS** |
 | **CP-10** | Tareas | Profesor califica y deja feedback | Score: 9.0, Feedback: "Excelente" | Estado pasa a `CORREGIDO` | **PASS** |
+

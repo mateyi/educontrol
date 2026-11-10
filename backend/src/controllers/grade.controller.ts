@@ -348,3 +348,4 @@ export async function getStudentReportCard(req: AuthenticatedRequest, res: Respo
     subjectsReport,
   });
 }
+

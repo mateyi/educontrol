@@ -343,3 +343,4 @@ export const Schedule: React.FC = () => {
     </div>
   );
 };
+

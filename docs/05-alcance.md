@@ -14,3 +14,4 @@
 ### Qué No Incluye (Límites)
 - Cobro o pasarela de pagos arancelarios (por tratarse de una institución pública de gestión estatal).
 - Emisión formal con firma digital criptográfica de validez nacional (requeriría integración con AFIP / GDE / DGCyE).
+

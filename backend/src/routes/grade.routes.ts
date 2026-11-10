@@ -20,3 +20,4 @@ router.post('/save', authorize('PROFESOR', 'ADMINISTRADOR'), validate(saveGrades
 router.get('/report-card/:studentId', getStudentReportCard);
 
 export default router;
+

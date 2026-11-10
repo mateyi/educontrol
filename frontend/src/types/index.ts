@@ -226,3 +226,4 @@ export interface NotificationItem {
   isRead: boolean;
   createdAt: string;
 }
+

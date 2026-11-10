@@ -210,3 +210,4 @@ export const Announcements: React.FC = () => {
     </div>
   );
 };
+

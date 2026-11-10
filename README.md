@@ -138,3 +138,4 @@ En la carpeta [`/docs`](docs/README.md) se encuentra la carpeta pedagógica comp
 
 ## 📄 Licencia
 Este proyecto fue desarrollado con fines educativos para la materia Laboratorio de Software bajo la licencia MIT.
+

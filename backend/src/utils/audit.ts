@@ -25,3 +25,4 @@ export async function createAuditLog(params: {
     console.error('Error al registrar auditoría:', error);
   }
 }
+

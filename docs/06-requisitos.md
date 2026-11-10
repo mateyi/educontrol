@@ -25,3 +25,4 @@
 | **RNF-03** | **Compatibilidad:** Interfaz responsiva operable en dispositivos móviles y de escritorio. |
 | **RNF-04** | **Usabilidad:** Modo claro y oscuro intercambiable sin recargar la página. |
 | **RNF-05** | **Localización:** Fechas en formato DD/MM/AAAA y huso horario de Argentina (GMT-3). |
+

@@ -274,3 +274,4 @@ export const Courses: React.FC = () => {
     </div>
   );
 };
+

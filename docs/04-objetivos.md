@@ -12,3 +12,4 @@ Diseñar, desarrollar, probar y desplegar un sistema integral de gestión escola
 6. Incorporar un motor de detección de conflictos de horarios para profesores y aulas.
 7. Implementar un módulo de tareas y trabajos prácticos con entrega y corrección digital.
 8. Garantizar la confiabilidad del sistema mediante una suite de pruebas unitarias, de integración y end-to-end con **Vitest** y **Playwright**.
+

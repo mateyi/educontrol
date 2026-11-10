@@ -28,3 +28,4 @@ Todos los endpoints (salvo `/api/auth/login` y `/api/health`) requieren la cabec
 ### 5. Horarios
 - `GET /api/schedules`: Retorna la grilla semanal por curso o docente.
 - `POST /api/schedules`: Asigna un módulo horario con chequeo automático de solapamientos (conflicto 409).
+

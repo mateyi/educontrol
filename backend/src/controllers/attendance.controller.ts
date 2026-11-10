@@ -239,3 +239,4 @@ export async function getAttendanceStats(req: AuthenticatedRequest, res: Respons
     studentsWithAlerts: studentsWithAlerts.sort((a, b) => b.absences - a.absences),
   });
 }
+

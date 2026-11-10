@@ -19,3 +19,4 @@ router.post('/', authorize('ADMINISTRADOR', 'DIRECTIVO'), validate(createSchedul
 router.delete('/:id', authorize('ADMINISTRADOR', 'DIRECTIVO'), deleteSchedule);
 
 export default router;
+

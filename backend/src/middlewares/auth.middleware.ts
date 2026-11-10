@@ -40,3 +40,4 @@ export function authorize(...allowedRoles: UserRole[]) {
     next();
   };
 }
+

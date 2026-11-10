@@ -28,3 +28,4 @@ router.use('/announcements', announcementRoutes);
 router.use('/admin', adminRoutes);
 
 export default router;
+

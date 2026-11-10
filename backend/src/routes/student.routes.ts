@@ -22,3 +22,4 @@ router.put('/:id', authorize('ADMINISTRADOR', 'DIRECTIVO', 'PRECEPTOR'), validat
 router.delete('/:id', authorize('ADMINISTRADOR', 'DIRECTIVO'), deleteStudent);
 
 export default router;
+

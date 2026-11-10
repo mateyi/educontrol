@@ -49,3 +49,4 @@ El frontend estará disponible en `http://localhost:5173` y el backend en `http:
    - `DATABASE_URL`: Conexión de PostgreSQL (Neon o Railway Postgres).
    - `JWT_SECRET`: Clave secreta robusta.
    - `NODE_ENV`: `production`.
+

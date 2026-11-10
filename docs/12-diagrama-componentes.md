@@ -35,3 +35,4 @@ graph TD
     AuditService --> PrismaService
     PrismaService --> DatabaseInstance
 ```
+

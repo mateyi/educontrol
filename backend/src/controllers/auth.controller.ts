@@ -189,3 +189,4 @@ export async function changePassword(req: AuthenticatedRequest, res: Response): 
 
   res.json({ message: 'Contraseña actualizada con éxito' });
 }
+

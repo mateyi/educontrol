@@ -10,3 +10,4 @@ router.get('/me', authenticate, getMe);
 router.post('/change-password', authenticate, validate(changePasswordSchema), changePassword);
 
 export default router;
+

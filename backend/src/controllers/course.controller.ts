@@ -151,3 +151,4 @@ export async function deleteCourse(req: AuthenticatedRequest, res: Response): Pr
   await prisma.course.delete({ where: { id } });
   res.json({ message: 'Curso eliminado correctamente' });
 }
+

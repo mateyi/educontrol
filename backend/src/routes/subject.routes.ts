@@ -18,3 +18,4 @@ router.post('/', authorize('ADMINISTRADOR', 'DIRECTIVO'), validate(createSubject
 router.post('/assign-teacher', authorize('ADMINISTRADOR', 'DIRECTIVO'), validate(assignTeacherSchema), assignTeacherToSubject);
 
 export default router;
+

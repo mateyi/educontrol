@@ -74,3 +74,4 @@ flowchart LR
   3. El sistema comprueba si el aula física ya está ocupada en ese horario.
   4. Si existe solapamiento, rechaza la operación con código HTTP 409 y mensaje explícito.
   5. Si no hay conflicto, persiste el horario en la base de datos.
+

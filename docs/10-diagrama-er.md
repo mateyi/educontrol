@@ -42,3 +42,4 @@ erDiagram
     ASSIGNMENT ||--o{ ASSIGNMENT_SUBMISSION : "entrega"
     STUDENT ||--o{ ASSIGNMENT_SUBMISSION : "realiza"
 ```
+

@@ -212,3 +212,4 @@ export const Navbar: React.FC<NavbarProps> = ({ sidebarCollapsed }) => {
     </header>
   );
 };
+

@@ -22,3 +22,4 @@
 
 ### 5. Tutor
 - **Seguimiento Pedagógico:** Consultar el rendimiento académico, boletín de calificaciones y presentismo de cada uno de sus hijos vinculados.
+

@@ -25,3 +25,4 @@ export type AssessmentPeriod = '1° Trimestre' | '2° Trimestre' | '3° Trimestr
 export type AssessmentType = 'EXAMEN' | 'TRABAJO_PRACTICO' | 'ORAL' | 'RECUPERATORIO';
 
 export type ShiftType = 'MAÑANA' | 'TARDE' | 'VESPERTINO' | 'JORNADA_COMPLETA';
+

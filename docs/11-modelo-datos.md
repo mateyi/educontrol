@@ -33,3 +33,4 @@ A continuación se detallan las principales tablas y sus atributos clave:
 - `AttendanceSession.date` (DateTime): Fecha normalizada a medianoche UTC.
 - `Attendance.status` (String): `PRESENTE`, `AUSENTE`, `TARDE`, `JUSTIFICADO`.
 - `Attendance.justified` (Boolean): Si la falta cuenta con constancia médica.
+

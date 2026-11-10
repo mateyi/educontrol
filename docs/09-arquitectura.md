@@ -44,3 +44,4 @@ flowchart TD
 2. El servidor compara el hash con `bcrypt.compare`.
 3. Se firma un token JWT conteniendo `userId`, `role`, `schoolId`, y `email`.
 4. En cada petición posterior, el middleware `authenticate` verifica la firma criptográfica y `authorize(...roles)` restringe el acceso al endpoint.
+

@@ -21,3 +21,4 @@ router.post('/submit', authorize('ALUMNO'), validate(submitAssignmentSchema), su
 router.post('/grade', authorize('PROFESOR', 'ADMINISTRADOR'), validate(gradeSubmissionSchema), gradeSubmission);
 
 export default router;
+

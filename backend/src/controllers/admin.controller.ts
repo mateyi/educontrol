@@ -211,3 +211,4 @@ export async function updateSchoolSettings(req: AuthenticatedRequest, res: Respo
 
   res.json({ message: 'Configuración institucional actualizada', school });
 }
+

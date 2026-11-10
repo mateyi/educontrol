@@ -90,3 +90,4 @@ export async function markNotificationAsRead(req: AuthenticatedRequest, res: Res
 
   res.json({ message: 'Notificación marcada como leída' });
 }
+

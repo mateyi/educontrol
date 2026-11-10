@@ -23,3 +23,4 @@ test.describe('Flujos Principales de EduControl', () => {
     await expect(page.getByText('Promedio General')).toBeVisible();
   });
 });
+

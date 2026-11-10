@@ -347,3 +347,4 @@ export async function getDashboardData(req: AuthenticatedRequest, res: Response)
     res.status(500).json({ error: 'Error al obtener datos del dashboard' });
   }
 }
+

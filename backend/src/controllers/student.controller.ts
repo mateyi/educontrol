@@ -452,3 +452,4 @@ export async function deleteStudent(req: AuthenticatedRequest, res: Response): P
 
   res.json({ message: 'Alumno dado de baja correctamente' });
 }
+

@@ -19,3 +19,4 @@ router.put('/:id', authorize('ADMINISTRADOR', 'DIRECTIVO'), updateTeacher);
 router.delete('/:id', authorize('ADMINISTRADOR'), deleteTeacher);
 
 export default router;
+
